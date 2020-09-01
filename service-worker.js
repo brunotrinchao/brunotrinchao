@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.0ed717cf69b79b2297e1053b2f39cf49.js"
+  "precache-manifest.debd98faba0f1d9c4bc5d6d4119a210b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "bahia_meta"});
